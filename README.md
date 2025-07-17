@@ -17,14 +17,16 @@ This is a simple multi-page website built using **Flask**, a lightweight Python 
 - HTML (Jinja templating via `render_template`)
 
 ## 📁 Project Structure
+
 flask-basic-website/
 │
 ├── main.py
 └── templates/
-    ├── home.html
-    ├── about.html
-    ├── services.html
-    └── contact.html
+├── home.html
+├── about.html
+├── services.html
+└── contact.html
+
 
 
 
