@@ -20,11 +20,12 @@ This is a simple multi-page website built using **Flask**, a lightweight Python 
 flask-basic-website/
 │
 ├── main.py
-├── templates/
-│ ├── home.html
-│ ├── about.html
-│ ├── services.html
-│ └── contact.html
+└── templates/
+    ├── home.html
+    ├── about.html
+    ├── services.html
+    └── contact.html
+
 
 
 🧠 Notes
